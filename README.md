@@ -1,4 +1,4 @@
-##React Movie App - ReactJS Projects
+###React Movie App - ReactJS Projects
 
 
 Demo - Deployed over Github Pages
