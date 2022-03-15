@@ -2,7 +2,7 @@
 
 
 Demo - Deployed over Github Pages
-https://github.com/roshan100kar/newMovieListApp
+https://optimistic-elion-232bd5.netlify.app/
 
 
 APIs Used
